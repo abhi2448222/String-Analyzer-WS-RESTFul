@@ -1,0 +1,8 @@
+c:\users\arao23\documents\visual studio 2015\Projects\Rest_String_Analyser\StringAnalyser_Client\obj\Debug\StringAnalyser_Client.csprojResolveAssemblyReference.cache
+c:\users\arao23\documents\visual studio 2015\Projects\Rest_String_Analyser\StringAnalyser_Client\bin\Debug\StringAnalyser_Client.exe.config
+c:\users\arao23\documents\visual studio 2015\Projects\Rest_String_Analyser\StringAnalyser_Client\bin\Debug\StringAnalyser_Client.exe
+c:\users\arao23\documents\visual studio 2015\Projects\Rest_String_Analyser\StringAnalyser_Client\bin\Debug\StringAnalyser_Client.pdb
+c:\users\arao23\documents\visual studio 2015\Projects\Rest_String_Analyser\StringAnalyser_Client\obj\Debug\StringAnalyser_Client.exe
+c:\users\arao23\documents\visual studio 2015\Projects\Rest_String_Analyser\StringAnalyser_Client\obj\Debug\StringAnalyser_Client.pdb
+C:\Users\arao23\Documents\Visual Studio 2015\Projects\Rest_String_Analyser\StringAnalyser_Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arao23\Documents\Visual Studio 2015\Projects\Rest_String_Analyser\StringAnalyser_Client\bin\Debug\Newtonsoft.Json.xml

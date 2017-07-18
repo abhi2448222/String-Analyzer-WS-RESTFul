@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Rest_String_Analyser.Service1" CodeBehind="AnalyseString.svc.cs" %>

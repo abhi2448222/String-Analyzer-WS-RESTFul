@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rest_String_Analyser", "Rest_String_Analyser\Rest_String_Analyser.csproj", "{D2F61DB6-0ED7-4F64-AF50-B5B7C3A82A5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringAnalyser_Client", "StringAnalyser_Client\StringAnalyser_Client.csproj", "{A300DC72-BE48-449B-AA50-B93AECDF8CCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2F61DB6-0ED7-4F64-AF50-B5B7C3A82A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F61DB6-0ED7-4F64-AF50-B5B7C3A82A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F61DB6-0ED7-4F64-AF50-B5B7C3A82A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F61DB6-0ED7-4F64-AF50-B5B7C3A82A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A300DC72-BE48-449B-AA50-B93AECDF8CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A300DC72-BE48-449B-AA50-B93AECDF8CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A300DC72-BE48-449B-AA50-B93AECDF8CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A300DC72-BE48-449B-AA50-B93AECDF8CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
